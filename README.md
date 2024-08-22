@@ -1,8 +1,8 @@
 # DMU-Beamer-Template-2-（非官方模板，仅供参考）
 ## Introduction
 另一个beamer模板，感觉更像是ppt的样式。
+基于![THU-beamer-template](https://github.com/FangWHao/THU-beamer-template)，修改了背景图片和主题配色。
 
-基于https://github.com/FangWHao/THU-beamer-template，修改了背景图片和主题配色。
 ## Preview
 ![image](https://github.com/user-attachments/assets/7513eb72-02b4-43cb-9d93-506ec3eca3eb)
 ![image](https://github.com/user-attachments/assets/cd0424bc-91dc-4bae-8756-9644a8138e20)
